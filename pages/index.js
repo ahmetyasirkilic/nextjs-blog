@@ -9,7 +9,7 @@ export default function Home() {
           <title>{siteTitle}</title>
         </Head>
         <section className={utilStyles.headingMd}>
-          <p>Hello Next.js</p>
+          <p>Hello Next.jsx"</p>
 
         </section>
       </Layout>
